@@ -1,0 +1,17 @@
+{
+    "name": "Password Manager",
+    "description": "Manages passwords.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "webNavigation", "scripting"],
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
