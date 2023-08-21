@@ -1,3 +1,3 @@
 #Vulnerable Password Manager
 
-find a way to steal user password.
+Find a way to steal saved password for any website.
