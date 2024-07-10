@@ -2,5 +2,5 @@
 
 Find a way to steal saved password from password manager.
 
-Install chrome
+How to install extension chrome:
 https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
